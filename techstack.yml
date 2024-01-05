@@ -1,7 +1,8 @@
 repo_name: isaac1102/spring-jpa-best-practices
 report_id: b3836080046aee069f696fb6faf8c2b7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T07:56:19+00:00'
+timestamp: '2024-01-05T08:33:12+00:00'
 requested_by: cheese10yun
 provider: github
 branch: master
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source_url: pom.xml
-  detection_source: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
+  detection_source: Repo Metadata
   last_updated_by: Yun
   last_updated_on: 2018-04-21 14:16:01.000000000 Z
 - name: SQL
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/src/main/resources/init.sql
   detection_source: src/main/resources/init.sql
   last_updated_by: Yun
   last_updated_on: 2018-06-28 19:55:02.000000000 Z
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-01-17 17:04:00.000000000 Z
@@ -54,6 +57,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2018-08-04 17:08:11.000000000 Z
@@ -65,6 +69,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2018-04-23 16:36:16.000000000 Z
@@ -76,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices
   detection_source: Repo Metadata
 - name: JUnit
   description: A programmer-oriented testing framework for Java
@@ -86,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2018-04-21 14:16:01.000000000 Z
@@ -98,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-01-27 14:35:02.000000000 Z
@@ -110,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Yun
   last_updated_on: 2018-04-25 16:09:45.000000000 Z
@@ -122,6 +131,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/src/main/resources/application.yml
   detection_source: src/main/resources/application.yml
   last_updated_by: Yun
   last_updated_on: 2018-04-23 16:36:16.000000000 Z
@@ -133,6 +143,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -144,6 +155,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-01-17 17:04:00.000000000 Z
@@ -153,6 +165,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-01-17 17:04:00.000000000 Z
@@ -162,6 +175,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-01-17 17:04:00.000000000 Z
@@ -174,7 +188,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2018-08-04 17:08:11.000000000 Z
@@ -187,7 +201,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2018-08-04 17:08:11.000000000 Z
@@ -200,7 +214,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -213,7 +227,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -226,7 +240,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: pom.xml
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -238,6 +252,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -249,6 +264,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -260,6 +276,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -271,6 +288,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:58:39.000000000 Z
@@ -282,6 +300,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -293,6 +312,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -304,6 +324,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -315,6 +336,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -327,6 +349,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
@@ -339,6 +362,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/spring-jpa-best-practices/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Yun
   last_updated_on: 2019-02-23 06:18:31.000000000 Z
